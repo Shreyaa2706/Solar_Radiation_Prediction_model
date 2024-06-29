@@ -1,7 +1,3 @@
-Here's a sample README for your solar radiation prediction project:
-
----
-
 # Solar Radiation Prediction
 
 This project aims to predict solar radiation based on meteorological data using a linear regression model. The project utilizes various Python libraries such as NumPy, Pandas, Matplotlib, Scikit-learn, and Seaborn for data processing, model building, and visualization.
@@ -99,4 +95,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to customize this README to better suit your project specifics and add any additional information that might be relevant.
